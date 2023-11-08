@@ -1,0 +1,41 @@
+
+        header{
+            background-color: forestgreen;
+            height: 100px;
+            margin-bottom: 1em;
+        }
+        body{
+            background-color:darkgrey;
+        }
+        .rehan{
+            margin-bottom: 1em;
+            height: 100px;
+        }
+        .box1{
+            background-color: goldenrod;
+           
+            height: 100px;
+            width: 20%;
+            float: left;
+            margin-right: 10px;
+        }
+        .box2{
+            background-color: indianred;
+            
+            height: 100px;
+            width: 75%;
+            float: left;
+        }
+        .box3{
+            background-color: orchid;
+            height: 100px;
+            width: 20%;
+            float: left;
+            margin-right: 10px;
+        }
+        .box4{
+            background-color: lightskyblue;
+            height: 100px;
+            width: 75%;
+            float: left;          
+        }

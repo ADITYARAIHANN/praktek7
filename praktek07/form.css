@@ -1,0 +1,19 @@
+.formcontainer{
+    background-color: khaki;
+    border: 2px solid brown;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+    padding: 2em;
+    width:400px;
+    margin: 100px auto;
+}
+h2{
+    text-align: center;
+}
+input{
+    float:right ;
+}
+.form-grup{
+    margin-bottom: 1em;
+    font-weight: bold
+}
